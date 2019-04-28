@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Edittext</string>
+    <string name="name">請輸入姓名</string>
+    <string name="height" >請輸入身高(cm)</string>
+    <string name="weight">請輸入體重(kg)</string>
+    <string name="calc">喵</string>
+</resources>
